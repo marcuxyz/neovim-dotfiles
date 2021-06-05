@@ -20,4 +20,4 @@ and execute **PlugInstall** command
 :PlugInstall
 ```
 
-![Plugins Installed](./PluginInstalled.png)
+![Plugins Installed](./pluginsInstalled.png)
